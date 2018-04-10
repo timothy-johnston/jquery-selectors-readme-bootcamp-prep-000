@@ -16,5 +16,5 @@ function divSelector() {
 }
 
 function fistListItem() {
-  return $('')
+  return $('#pic-list li')
 }
