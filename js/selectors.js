@@ -4,3 +4,5 @@ function paragraphSelector() {
 }
 
 function lastImageSelector() {
+  return $
+}
